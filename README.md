@@ -3,5 +3,4 @@ This is a simple 2D Game uses Minilbx library (42Network library) and it is real
 
 <img src="Screen Shot 2022-02-08 at 4.47.33 PM.png" />
 
-##Name
-#So_long
+##So_long
